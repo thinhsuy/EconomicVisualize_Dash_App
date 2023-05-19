@@ -4,7 +4,21 @@ Microeconomics is a branch of economics that focuses on the behavior and decisio
 
 Dash is a Python framework that allows you to build interactive web applications for data visualization and analytics, providing a powerful and flexible way to create interactive dashboards and data-driven applications using Python.
 
-# Features research describe
+# Run and Setup
+Please make sure run the setup.txt before for installing neccessary libraries
+```command prompt
+pip install setup.txt
+```
+After that, run the app.py all run the jupyter notebook for hosting server.
+```command prompt
+python app.py
+```
+or
+```
+reset kernel and run all (jupyter notebook)
+```
+
+# Features Exploring
 
 - `IncomeGroup`: refers to the classification of countries based on their level of income per capita.
 - `Imports of goods and services`: refer to the purchases made by a country from other countries. It includes the value of goods and services that a country buys from abroad, such as machinery, raw materials, consumer products, and professional services.
@@ -16,20 +30,20 @@ Dash is a Python framework that allows you to build interactive web applications
 - `Total reserves`:  in the context of economics and finance, refers to the sum of a country's foreign exchange reserves held by its central bank.
 - `Unemployment, total`: Total unemployment refers to the number of individuals who are actively seeking employment but are currently without a job. It is an important economic indicator that reflects the overall health of the labor market in a country.
 
-# Project approaching
+# Project Approaching
 
-![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/647d3cc7-9119-4ae7-b8a2-16b137a7f74c)
+![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/f0aaa61f-3753-4592-a166-44a6301b2759)
 
 ## Countries Economic in Glance
 
-![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/1e17567e-3389-4dfc-8151-09df932f164b)
+![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/421298a3-b3d8-45e7-aacb-fb56220421bf)
 
 ## Regions Economic in Glance
 
-![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/b34bc8e4-3517-4ccf-8903-81b856fb1ff6)
+![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/3a8ff16e-8510-4e42-8b73-5279c824ff03)
 
 ## Statistic and Machine Learning View
 
-![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/822288a4-7d2d-4f31-9734-3e034288fbce)
+![image](https://github.com/thinhsuy/EconomicVisualize_Dash_App/assets/81562297/b884ea6b-e9ad-42f4-b961-0fae87135bd5)
 
 # References
